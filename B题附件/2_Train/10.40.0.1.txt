@@ -1,8 +1,0 @@
-GET   https://10.44.0.1/wnm/frame/login.phpuser_name=&password=&ssl=true&host=10.44.0.1&lang=en
-
-
-
-{
-  "pw": "12345678910Hsc",
-  "email": "hscyyds02@163.com"
-}
